@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek
-**VERZIÓ: 1.0 | UTOLSÓ FRISSÍTÉS: 2021.02.15.**
+**VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2021.03.19.**
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -12,9 +12,12 @@ Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a
 ## Szolgáltató
 
 - **Ambrus Péter Egyéni Vállalkozó**
+- **Vállalkozás és adózási mód:** Kisadózó (KATA), alanyi adómentes
 - **Székhely:** 7761 Kozármisleny, Pinty utca 12/A
 - **Adószám:** 66677659-1-22
 - **Nyilvántartási szám:** 37513086
+
+Szolgáltató a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (Katv.) alapján kisadózó vállalkozásnak minősül.
 
 ## Kapcsolattartó
 
@@ -70,6 +73,8 @@ Előfizető tudomásulveszi, hogy a közvetített szolgáltatások tekintetében
 ## Számlázás
 
 Szolgáltató a számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Előfizető a megrendelés leadásával beleegyezését adja Szolgáltatónak, hogy részére elektronikus számlát állítson ki. A megrendelés leadásánál Előfizető köteles megadni a számlázási email címet.
+
+Szolgáltató alanyi adómentes adózású válallkozó, így a számlákat minden esetben ÁFA nélkül állítja ki.
 
 ## Fizetési módok
 

@@ -22,6 +22,11 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**2.0**
+
+- Kisadózói státusz nyilatkozat.
+- Alanyi adómentes adózási mód nyilatkozat.
+
 **1.0**
 
 - Az első javított kiadás.
